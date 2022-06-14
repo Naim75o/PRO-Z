@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from sc import Subscraption
+        from flame32 import Subscraption
  
         Subscraption()
  
@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from flame32 import Subscraption
+        from sc import Subscraption
  
  
         Subscraption()
