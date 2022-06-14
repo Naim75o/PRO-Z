@@ -23,7 +23,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from sc32 import Subscraption
+        from flame32 import Subscraption
  
         Subscraption()
  
