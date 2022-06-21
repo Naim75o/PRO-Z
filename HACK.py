@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("fixd").__niki____()
+    __import__("n").Subscraption()
 except Exception as e:
     exit(str(e))
