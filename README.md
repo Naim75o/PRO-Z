@@ -1,5 +1,4 @@
-
-## OK ID FILE CLONER
+## Naim75o's OK ID File Cloner!
 ```
  pkg update
 
@@ -17,7 +16,7 @@
 
  rm -rf PRO-Z
 
- git clone https://github.com/Naim75o/PRO-Z
+ git clone https://github.com/Naim75o/PRO-Z.git
 
  cd PRO-Z
  
